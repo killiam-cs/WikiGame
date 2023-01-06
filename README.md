@@ -12,6 +12,8 @@ You should start by getting it to find a very obvious link from the first page b
 
 I also recommend starting with just `System.out.println` to see the link path before you try to save `path` as a variable of any kind.
 
+For the recursion, think about what you want your base case (or cases) to be, and what your general recursion step will look like.
+
 ### Basic stuff you need
 - HTML reading
 - String parsing
